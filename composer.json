@@ -1,5 +1,5 @@
 {
-    "name": "zumba/mongounit",
+    "name": "workdigital/mongounit",
     "description": "PHPUnit extension that supports mongodb",
     "type": "library",
     "keywords": [
